@@ -114,8 +114,8 @@ export const pageQuery = graphql`
   query($id: String!) {
     site {
       siteMetadata {
-        title
-        docsLocation
+        title 
+        #docsLocation       
       }
     }
     mdx(fields: { id: { eq: $id } }) {

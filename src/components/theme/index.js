@@ -1,6 +1,6 @@
 const baseTheme = {
   fonts: {
-    mono: '"SF Mono", "Roboto Mono", Menlo, monospace',
+    mono: '"Inter", "SF Mono", "Roboto Mono", Menlo, monospace',
   },
 };
 
@@ -22,7 +22,7 @@ const darkTheme = {
     heading: '#fff',
     text: '#fff',
     preFormattedText: '#000',
-    link: '#1ED3C6',
+    link: '#1e3ad3',
   },
 };
 

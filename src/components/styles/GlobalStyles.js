@@ -1,7 +1,7 @@
 import { css } from '@emotion/react';
 
 export const baseStyles = css`
-  @import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap');
+  @import url('https://fonts.googleapis.com/css?family=Inter:300,400,500,700&display=swap');
   @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600&display=swap');
   * {
     margin: 0;
@@ -24,7 +24,7 @@ export const baseStyles = css`
   }
   html,
   body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Roboto Light', 'Oxygen',
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', 'Roboto', 'Roboto Light', 'Oxygen',
       'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif,
       'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
@@ -38,7 +38,7 @@ export const baseStyles = css`
   }
 
   body {
-    font-family: 'Roboto';
+    font-family: 'Inter';
   }
   .visibleMobile {
     display: none;
@@ -227,7 +227,7 @@ export const baseStyles = css`
     line-height: 1.5;
     font-weight: 300;
     color: #fff !important;
-    margin-top: 16px;
+    margin-top: 4px;
     text-transform: uppercase;
   }
   .headerTitle a {
@@ -244,7 +244,7 @@ export const baseStyles = css`
   }
 
   .logoContent {
-    font-family: 'Roboto';
+    font-family: 'Inter';
     margin-left: 16px;
     font-size: 28px;
     line-height: 1.5;
@@ -297,7 +297,7 @@ export const baseStyles = css`
     -webkit-overflow-scrolling: touch;
   }
   .navBarUL li a {
-    font-family: 'Roboto';
+    font-family: 'Inter';
     color: #fff !important;
     font-size: 16px;
     font-weight: 500;
@@ -396,7 +396,7 @@ export const baseStyles = css`
   }
 
   .headerNav {
-    font-family: 'Roboto';
+    font-family: 'Inter';
     padding: 0px 24px;
     color: #001933;
     font-size: 16px;
@@ -450,7 +450,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #1ed3c6;
+    background-color: #1e3ad3;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -470,7 +470,7 @@ export const baseStyles = css`
   }
 
   .sideBarUL .item > a {
-    color: #1ED3C6;
+    color: #1e3ad3;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -508,7 +508,7 @@ export const baseStyles = css`
     border-color: rgb(230, 236, 241) !important;
     border-style: solid none solid solid;
     border-width: 1px 0px 1px 1px;
-    background-color: #1ed3c6 !important;
+    background-color: #1e3ad3 !important;
     color: #fff;
   }
 

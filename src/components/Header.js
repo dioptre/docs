@@ -60,13 +60,13 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
         site {
           siteMetadata {
             headerTitle
-            githubUrl
+            #githubUrl
             helpUrl
             tweetText
-            logo {
-              link
-              image
-            }
+            #logo {
+            #  link
+            #  image
+            #}
             headerLinks {
               link
               text
@@ -90,19 +90,19 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
         },
       } = data;
 
-      const finalLogoLink = logo.link !== '' ? logo.link : 'https://hasura.io/';
-
       return (
         <div className={'navBarWrapper'}>
           <nav className={'navBarDefault'}>
             <div className={'navBarHeader'}>
-              <Link to={finalLogoLink} className={'navBarBrand'}>
+              {logo ? 
+              <Link to={logo.link} className={'navBarBrand'}>
                 <img
                   className={'img-responsive displayInline'}
                   src={logo.image !== '' ? logo.image : logoImg}
                   alt={'logo'}
                 />
               </Link>
+              : null }
               <div
                 className={'headerTitle displayInline'}
                 dangerouslySetInnerHTML={{ __html: headerTitle }}
@@ -170,7 +170,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     ></ul>
                   </li>
                 ) : null}
-                {githubUrl !== '' ? (
+                {githubUrl ? (
                   <li className={'githubBtn'}>
                     <GitHubButton
                       href={githubUrl}
@@ -181,12 +181,12 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                     </GitHubButton>
                   </li>
                 ) : null}
-                <li>
+                {/* <li>
                   <DarkModeSwitch
                     isDarkThemeActive={isDarkThemeActive}
                     toggleActiveTheme={toggleActiveTheme}
                   />
-                </li>
+                </li> */}
               </ul>
             </div>
           </nav>
