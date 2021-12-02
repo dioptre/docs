@@ -45,5 +45,9 @@ Remember the alert `function`, that was javascript:
 alert("hello mulan");
 ```
 
+## Further
+
 Also we won't be covering a lot today, but javascript has a **LOT** of functions. [Check them out one day.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) But for now let's have some fun.
+
+To actually see the internet at work right click on your browser window and click *"inspect"* and take a look around.
 
