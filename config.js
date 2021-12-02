@@ -30,11 +30,11 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '/introduction', // add trailing slash if enabled above
-      '/codeblock',
+      '/poems', // add trailing slash if enabled above
+      '/learn-code-basic',
     ],
     collapsedNav: [
-      '/codeblock', // add trailing slash if enabled above
+      '/learn-code-basic', // add trailing slash if enabled above
     ],
     links: [{ text: 'neuromore', link: 'https://neuromore.com' }, { text: 'SF Product Labs', link: 'https://sfpl.io' }],
     frontline: false,
