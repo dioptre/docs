@@ -1,10 +1,10 @@
 ---
-title: "Learn to Code (For n00bs)"
+title: "Learn to Code"
 metaTitle: "Lets start our coding voyage"
 metaDescription: "This is the very first lesson we need to learn in programming"
 ---
 
-## It's ok to be a n00b
+## It's ok to be a n00b (aka newbie)
 
 Everyone needs to learn to speak over years of practice. Software is the same!
 
