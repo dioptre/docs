@@ -1,5 +1,5 @@
 ---
-title: "Learn to Code"
+title: "Learn to Code - Day 1"
 metaTitle: "Lets start our coding voyage"
 metaDescription: "This is the very first lesson we need to learn in programming"
 ---
