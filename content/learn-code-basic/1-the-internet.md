@@ -30,7 +30,7 @@ There are around 100 HTML elements (we won't be covering them today) but it's im
 Remember that button was green? The CSS (Cascading Style Sheet) was the language used to color it. Go ahead and change the **green** to **red** below.
 
 ```javascript react-live=true
-<button style={{backgroundColor:"green", color: "white", padding: 10}} onClick={() => alert('hello cinderella')}>Try me</button>
+<button style={{backgroundColor:"green", color: "white", padding: 10}} onClick={() => alert('hello mulan')}>Try me</button>
 ```
 
 We also won't be spending much time today on CSS, but the next time you load a page and see red, you'll know why.
@@ -42,7 +42,7 @@ Now here comes the fun part. Javascript is the laguage used to make meaning out 
 Remember the alert `function`, that was javascript:
 
 ```javascript
-alert("hello cinderella");
+alert("hello mulan");
 ```
 
 Also we won't be covering a lot today, but javascript has a **LOT** of functions. [Check them out one day.](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) But for now let's have some fun.
