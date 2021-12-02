@@ -20,4 +20,4 @@ metaDescription: "Coding a game"
 <iframe src="https://editor.p5js.org/dioptre/sketches/SyJKv1CCz" width="100%" height="768"></iframe>
 
 
-Try playing a sound when the mouse moves to the right of the screen.
+Hint: To get started, try playing a sound when the mouse moves to the right of the screen. Try 100 pixels?
