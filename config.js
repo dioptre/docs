@@ -36,7 +36,26 @@ const config = {
     collapsedNav: [
       '/learn-code-basic', // add trailing slash if enabled above
     ],
-    links: [{ text: 'neuromore', link: 'https://neuromore.com' }, { text: 'SFPL', link: 'https://sfpl.io' }, { text: 'LinkedIn', link: 'https://linkedin.com/in/agrosser' }],
+    links: [
+      { text: 'neuromore', link: 'https://neuromore.com' }, 
+      { text: 'Sourcetable', link: 'https://sourcetable.com' },
+      { text: 'Homodea', link: 'https://homodea.com/' },
+      { text: 'ActGreen', link: 'https://actgreen.org' },
+      { text: 'Painkillr', link: 'https://painkillr.com/' },
+      { text: 'Jelass', link: 'https://github.com/sfproductlabs/jelass' },
+      { text: 'Roo', link: 'https://github.com/sfproductlabs/roo' },      
+      { text: 'WAVR', link: 'https://wideawakevr.com/' },
+      { text: 'Valid9', link: 'https://valid9.com/' },
+      { text: 'Voshpit', link: 'https://voshpit.com/' },
+      { text: 'ADuCM350 Compiler', link: 'https://github.com/sfproductlabs/ADuCM350' }, 
+      { text: '2020 Insights', link: 'https://www.2020insights.net/' },           
+      { text: 'SFPL', link: 'https://sfpl.io' }, 
+      { text: 'Tweezers', link: 'https://github.com/sfproductlabs/tweezers' },       
+      { text: 'Protogen', link: 'http://www.protogen.com.au/' },  
+      { text: 'Tracker', link: 'https://github.com/sfproductlabs/tracker' },           
+      { text: 'Lie Machines', link: 'https://liemachines.com' }, 
+      { text: 'LinkedIn', link: 'https://linkedin.com/in/agrosser' }
+    ],
     frontline: false,
     ignoreIndex: true,
     //title: "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",
