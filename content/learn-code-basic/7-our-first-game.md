@@ -1,17 +1,17 @@
 ---
-title: "Our first game"
+title: "Our first game - The Invisble Cow"
 metaTitle: "Writing your first game or application with p5.js"
 metaDescription: "Coding a game"
 ---
 
-## Lets get better by copying
+## Lets get better by copying someone else
 
 - Go here: https://findtheinvisiblecow.com/ 
 - Now play the game. Yep. That's the hard part :)
 
-## Think how you might solve it
+## Think how you might copy it
 
-<img src="./images/invisible-cow.png" width="100%" />
+<img src="/images/invisible-cow.png" width="100%" />
 
 ## Getting you started
 

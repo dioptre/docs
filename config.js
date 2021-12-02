@@ -36,7 +36,7 @@ const config = {
     collapsedNav: [
       '/learn-code-basic', // add trailing slash if enabled above
     ],
-    links: [{ text: 'neuromore', link: 'https://neuromore.com' }, { text: 'SF Product Labs', link: 'https://sfpl.io' }],
+    links: [{ text: 'neuromore', link: 'https://neuromore.com' }, { text: 'SFPL', link: 'https://sfpl.io' }, { text: 'LinkedIn', link: 'https://linkedin.com/in/agrosser' }],
     frontline: false,
     ignoreIndex: true,
     //title: "<a href='https://hasura.io/learn/'>graphql </a><div class='greenCircle'></div><a href='https://hasura.io/learn/graphql/react/introduction/'>react</a>",

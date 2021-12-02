@@ -7,9 +7,9 @@ metaDescription: "Our first real animation"
 ## Draw a circle
 
 We'll see more and more `functions` don't be afraid of them. They're here to help! In the following example there is:
-- ellipse (draw an ellipse/circle at your mouse-x-position, mouse-y-position, with-width-in-pixels, with-height-in pixels)
+- **ellipse** (draw an ellipse/circle at your mouse-x-position, mouse-y-position, with-width-in-pixels, with-height-in pixels)... *where* X and width are horizontal, Y and height are vertical.
 
-Click on **play** to get started. Try changing the values (you can also replace mouseX and mouseY with numbers). 
+Click on **play** to get started. Move your mouse over the preview. Try changing the values (you can also replace mouseX and mouseY with numbers). 
 
 <iframe src="https://editor.p5js.org/dioptre/sketches/SUzo3a_1o" width="100%" height="768"></iframe>
 

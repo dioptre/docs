@@ -1,22 +1,13 @@
 ---
-title: "Our first game"
+title: "I Need A Hint"
 metaTitle: "Writing your first game or application with p5.js"
 metaDescription: "Coding a game"
 ---
 
-## Lets get better by copying
+## SPOILER ALERT!!!!
 
-- Go here: https://findtheinvisiblecow.com/ 
-- Now play the game. Yep. That's the hard part :)
+The following code demonstrates how to build everything but some things are commented out, and it's up to you to experiment to get it working. Log into https://editor.p5js.org and duplicate the example in your own account, then play with it until you can get it working!
 
-## Now think how you might copy it
-
-
-
-## Getting you started
-
-- Make a duplicate of my starter that comes with all the sounds needed to create the game.
-
-<iframe src="https://editor.p5js.org/dioptre/sketches/SyJKv1CCz" width="100%" height="768"></iframe>
+<iframe src="https://editor.p5js.org/dioptre/sketches/H19I3ol17" width="100%" height="768"></iframe>
 
 

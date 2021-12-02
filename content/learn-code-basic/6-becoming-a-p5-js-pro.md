@@ -9,6 +9,12 @@ metaDescription: "Turning pro"
 - Go here: https://editor.p5js.org
 - Sign up for an account if you want to save your work.
 
+<div style="text-align:center">
+<iframe src="https://editor.p5js.org/dioptre/full/SkPrTLwAQ" width="645" height="410"></iframe><br/>
+<a href="https://natureofcode.com/book/" target="_blank"><small>From http://natureofcode.com</small></a>
+</div>
+
+
 ## Continuing your artistic journey
 
 - Take a look at these for inspiration:
