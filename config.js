@@ -50,7 +50,7 @@ const config = {
       { text: 'ADuCM350 Compiler', link: 'https://github.com/sfproductlabs/ADuCM350' }, 
       { text: '2020 Insights', link: 'https://www.2020insights.net/' },           
       { text: 'SFPL', link: 'https://sfpl.io' }, 
-      { text: 'Tweezers', link: 'https://github.com/sfproductlabs/tweezers' },       
+      { text: 'MediPen', link: 'https://github.com/sfproductlabs/tweezers' },       
       { text: 'Protogen', link: 'http://www.protogen.com.au/' },  
       { text: 'Tracker', link: 'https://github.com/sfproductlabs/tracker' },           
       { text: 'Lie Machines', link: 'https://liemachines.com' }, 
