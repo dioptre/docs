@@ -10,4 +10,6 @@ The following code demonstrates how to build everything but some things are comm
 
 <iframe src="https://editor.p5js.org/dioptre/sketches/H19I3ol17" width="100%" height="768"></iframe>
 
+## Good Luck 
 
+Don't worry if you can't complete the task. Keep trying in your own time. It's fun!
