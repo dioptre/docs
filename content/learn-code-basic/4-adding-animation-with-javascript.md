@@ -19,6 +19,6 @@ How about if we added a background before every animation (**draw** function)? W
 
 > Hint: The order in which you run things matter.
 
-
+For the advanced try changing the color of the circle with the function **fill**.
 
 

@@ -36,7 +36,8 @@ Let's take a real look (**click the play button to run the example**):
 
 ## Adding color
 
-Take a look at this code and have a think of what might happen? Hint colors are made of RGB (Red,Green,Blue) like video displays.
+Take a look at this code and have a think of what might happen? 
+> Hint colors are made of RGB (Red,Green,Blue) like tv/video displays. Imagine you're mixing paints together.
 
 ```javascript
 function setup() {
@@ -49,6 +50,8 @@ function draw() {
 }
 ```
 
-Copy and paste over the example above, and see what happens. Try playing with the `255,0,0` and see what happens. Don't forget to click **play** or **auto-refresh**.
+Copy and paste **over** the example above (you can only have one setup and one draw function), and see what happens. Remember the setup function runs once, and the draw function happens every few milliseconds. Try playing with the `255,0,0` and see what happens. 
+
+> Hint: Don't forget to click **play** or **auto-refresh**.
 
 
