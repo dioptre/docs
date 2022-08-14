@@ -42,8 +42,7 @@ const config = {
       { text: 'Painkillr', link: 'https://painkillr.com/' },
       { text: 'Jelass', link: 'https://github.com/sfproductlabs/jelass' },
       { text: 'Roo', link: 'https://github.com/sfproductlabs/roo' },      
-      { text: 'ADuCM350 Compiler', link: 'https://github.com/sfproductlabs/ADuCM350' }, 
-      { text: '2020 Insights', link: 'https://www.2020insights.net/' },           
+      { text: 'ADuCM350 Compiler', link: 'https://github.com/sfproductlabs/ADuCM350' },        
       { text: 'Protogen', link: 'http://www.protogen.com.au/' },  
       { text: 'Tracker', link: 'https://github.com/sfproductlabs/tracker' },           
       { text: 'LinkedIn', link: 'https://linkedin.com/in/agrosser' }
